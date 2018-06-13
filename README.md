@@ -1,3 +1,5 @@
 # veridic2
 hi 
-how are u sandeep 
+how are u sandeep
+where are u
+ 
